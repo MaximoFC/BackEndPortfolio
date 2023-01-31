@@ -1,0 +1,16 @@
+com\portfolio2\mfc2\Entity\Persona.class
+com\portfolio2\mfc2\Service\SExperiencia.class
+com\portfolio2\mfc2\Service\Shys.class
+com\portfolio2\mfc2\Controller\CExperiencia.class
+com\portfolio2\mfc2\Entity\hys.class
+com\portfolio2\mfc2\Repository\IPersonaRepository.class
+com\portfolio2\mfc2\Service\ImpPersonaService.class
+com\portfolio2\mfc2\Controller\PersonaController.class
+com\portfolio2\mfc2\Entity\Experiencia.class
+com\portfolio2\mfc2\Controller\Mensaje.class
+com\portfolio2\mfc2\Controller\Chys.class
+com\portfolio2\mfc2\Repository\Rhys.class
+com\portfolio2\mfc2\Mfc2Application.class
+com\portfolio2\mfc2\Dto\DtoExperiencia.class
+com\portfolio2\mfc2\Repository\RExperiencia.class
+com\portfolio2\mfc2\Dto\dtohys.class
