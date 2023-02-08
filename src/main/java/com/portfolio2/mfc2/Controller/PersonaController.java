@@ -32,7 +32,7 @@ public class PersonaController {
         return "La persona fue creada";
     }
     
-    @PutMapping("/editar/{id}")
+    @PutMapping("/detail/{id}")
     public Persona editPersona(@PathVariable Long id,
             @RequestParam("nombre") String nuevoNombre,
             @RequestParam("apellido") String nuevoApellido,
